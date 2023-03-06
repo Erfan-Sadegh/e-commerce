@@ -1,0 +1,88 @@
+{
+  "productsList": [
+    {
+      "id": 1,
+      "name": "Shoes",
+      "description": "Running Shoes.",
+      "price": "5",
+      "image": "../../../assets/commerce.png"
+    },
+    {
+      "id": 2,
+      "name": "Macbook",
+      "description": "Apple Macbook.",
+      "price": "10",
+      "image": "../../assets/commerce.png"
+    },
+    {
+      "id": 3,
+      "name": "Keyboard",
+      "description": "Magic Keyboard.",
+      "price": "20",
+      "image": "../../assets/commerce.png"
+    },
+    {
+      "id": 4,
+      "name": "Iphone 13 pro max",
+      "description": "Iphone black 13 pro max.",
+      "price": "30",
+      "image": "../../assets/commerce.png"
+    },
+    {
+      "id": 5,
+      "name": "Mause",
+      "description": "Mause Apple.",
+      "price": "25",
+      "image": "../../assets/commerce.png"
+    },
+    {
+      "id": 6,
+      "name": "LapTop",
+      "description": "Asus LapTop.",
+      "price": "8",
+      "image": "../../assets/commerce.png"
+    },
+    {
+      "id": 7,
+      "name": "Watch",
+      "description": "Apple Watch.",
+      "price": "25",
+      "image": "../../assets/commerce.png"
+    },
+    {
+      "id": 8,
+      "name": "Headphone",
+      "description": "Green Heaphone.",
+      "price": "18",
+      "image": "../../assets/commerce.png"
+    },
+    {
+      "id": 9,
+      "name": "PlayStation 4",
+      "description": "PlayStation 4 Pro.",
+      "price": "45",
+      "image": "../../assets/commerce.png"
+    },
+    {
+      "id": 10,
+      "name": "Speakers",
+      "description": "Awesome Speakers.",
+      "price": "18",
+      "image": "../../assets/commerce.png"
+    },
+    {
+      "id": 11,
+      "name": "Earbuds",
+      "description": "Sumsung Earbuds.",
+      "price": "35",
+      "image": "../../assets/commerce.png"
+    },
+    {
+      "id": 12,
+      "name": "Manitor",
+      "description": "Shiaomi Manitor.",
+      "price": "38",
+      "image": "../../assets/commerce.png"
+    }
+  ]
+}
